@@ -1,0 +1,11 @@
+.newsCard{
+    position: relative;
+    overflow: hidden;
+    border-radius: 20px;
+}
+
+.newsCard img{
+    width: 250px;
+    height: 370px;
+    border-radius: 20px;
+}
