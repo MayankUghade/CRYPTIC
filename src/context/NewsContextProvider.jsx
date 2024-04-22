@@ -5,7 +5,7 @@ const baseURL = 'https://cryptocurrency-news2.p.rapidapi.com/v1';
 const options = {
 	method: 'GET',
 	headers: {
-		'X-RapidAPI-Key': 'process.env.REACT_APP_API_KEY',
+		'X-RapidAPI-Key': '5bde83f898msh7f677bda4d21c59p1fbff3jsn8f0d514ab505',
 		'X-RapidAPI-Host': 'cryptocurrency-news2.p.rapidapi.com'
 	}
 };

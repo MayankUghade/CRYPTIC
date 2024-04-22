@@ -18,7 +18,7 @@ export const CoinDesk = () => {
   const dataArray = data[0];
   return (
     <div>
-      <div className='bg-black text-lg hover:underline rounded-lg' style={{width:'98%', height:'40%', display:'flex', alignItems:'center', justifyContent:'center', color:'white'}}>
+      <div className='bg-black text-lg p-5 hover:underline rounded-lg mt-3' style={{width:'98%', height:'40%', display:'flex', alignItems:'center', justifyContent:'center', color:'white'}}>
       <h1>CoinDesk</h1>
       </div>
       <div className='mt-5' style={{ display: 'flex', flexWrap: 'wrap', gap:'35px' }}>
